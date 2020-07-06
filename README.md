@@ -8,6 +8,7 @@
 - [快速启动](#快速启动)
 - [抓包](#抓包)
 - [SSH](#SSH)
+- [chrome plugins](#chrome&nbsp;plugins)
 
 ## 检测软件
 
@@ -30,3 +31,9 @@
 
 - [mobaxterm](https://mobaxterm.mobatek.net/)
 - [winscp](https://winscp.net/eng/docs/lang:chs)
+
+## chrome plugins
+
+- Distill Web Monitor
+- Free Auto Refresh
+- Grammarly for Chrome
