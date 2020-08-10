@@ -9,6 +9,7 @@
 - [抓包](#抓包)
 - [SSH](#SSH)
 - [chrome plugins](#chrome&nbsp;plugins)
+- [vscode plugins](#vscode&nbsp;plugins)
 
 ## 检测软件
 
@@ -37,3 +38,9 @@
 - Distill Web Monitor
 - Free Auto Refresh
 - Grammarly for Chrome
+
+## vscode plugins
+
+- Remote - SSH
+- C/C++
+- Trailing Spaces
