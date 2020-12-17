@@ -36,8 +36,13 @@
 ## chrome plugins
 
 - Distill Web Monitor
+    - 监视网页变化
 - Free Auto Refresh
+    - 定时刷新网页
 - Grammarly for Chrome
+    - 英语语法检测
+- GitHub Isometric Contributions
+    - 可以让提交变成立体的柱状图
 
 ## vscode plugins
 
