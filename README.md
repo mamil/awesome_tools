@@ -43,6 +43,11 @@
     - 英语语法检测
 - GitHub Isometric Contributions
     - 可以让提交变成立体的柱状图
+- Page load time
+    - 检测页面载入耗时
+- Night Eye
+    - 可以给任意页面开启黑暗模式
+
 
 ## vscode plugins
 
