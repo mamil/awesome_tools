@@ -46,7 +46,9 @@
 - Page load time
     - 检测页面载入耗时
 - Night Eye
-    - 可以给任意页面开启黑暗模式
+    - 可以给任意页面开启黑暗模式，试用过后，比较鸡肋
+- Dark theme
+    - 黑暗主题
 
 
 ## vscode plugins
