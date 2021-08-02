@@ -22,7 +22,7 @@
 - [ditto](https://ditto-cp.sourceforge.io/)
 - [launchy](http://www.launchy.net/)
 - [Everything](https://www.voidtools.com/zh-cn/)
-
+- [whatpulse](https://whatpulse.org/downloads)
 ## 抓包
 
 - [wireshark](https://www.wireshark.org/)
