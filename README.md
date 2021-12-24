@@ -1,4 +1,4 @@
-# awesome_Tools
+# awesome_tools
 自用工具记录
 
 
@@ -56,3 +56,16 @@
 - Remote - SSH
 - C/C++
 - Trailing Spaces
+    - 删除多余的空格
+- highlight-icemode
+    - 选中高亮加框,更加显眼
+- Go Autotest
+    - go测试工具
+    - 建议加如下设置，单次运行一个ut
+    ```
+        "go.testFlags": [
+        "-v",
+        "-count=1"//增加用以禁用测试缓存
+    ]
+    ```
+
